@@ -1,5 +1,6 @@
 ### Hi there, Im Dustin2 👋 👨‍💻
 ![react native developer](https://github.com/Dustin2/Dustin2/assets/38537077/727e8f36-1469-4b10-81e4-97a73add2687)
+## Hobbyist developer, creating apps and looking to learn android as well as custom roms
 <!--
 **Dustin2/Dustin2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 [![Dustin2 GitHub stats](https://github-readme-stats.vercel.app/api?username=dustin2)](https://github.com/anuraghazra/github-readme-stats)
