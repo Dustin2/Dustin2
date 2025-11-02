@@ -25,7 +25,7 @@ Currently, I'm expanding my horizons and learning web development technologies l
 
 - [GitHub](https://github.com/dustin2)
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) <!-- Actualiza este enlace -->
-- [Twitter](https://twitter.com/your-twitter) <!-- Opcional: actualiza o elimina -->
+
 
 ---
 
